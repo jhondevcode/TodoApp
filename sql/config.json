@@ -1,0 +1,16 @@
+{
+    "db": {
+        "name": "mysql",
+        "user": "root",
+        "password": "root"
+    },
+    "docker": {
+        "container": {
+            "name": "mycontainer",
+            "port": {
+                "internal": 3600,
+                "external": 3600
+            }
+        }
+    }
+}
