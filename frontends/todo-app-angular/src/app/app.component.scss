@@ -1,0 +1,14 @@
+#root-container {
+  background-color: #212121;
+  height: 100%;
+  width: 100%;
+  justify-content: center;
+
+  display: flex;
+  flex-direction: row;
+}
+
+.todo-container {
+  background-color: #424242;
+  width: 40%;
+}
